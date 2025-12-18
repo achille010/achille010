@@ -27,38 +27,6 @@ const achille010 = {
 
 ----------
 
-## Contributionz
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Matrix" /> <img src="https://github-readme-stats.vercel.app/api?username=achille010&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=00FF41&ring_color=00D9FF&fire_color=00D9FF&currStreakLabel=00D9FF&hide=contribs,prs,issues" />
-
-----------
-
-# Stats
-
-![SYSTEM ONLINE](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=50&lines=SYSTEM+ONLINE+•+RUNNING+CONTINUOUSLY+•+∞)
-
-
-----------
-
-##  Achievements & Craft
-
-
-<div align="center">
-
-### ✍️ Writer - KPL
-----------
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Books" width="80" /> <br>
-### Coder - From Rwanda Coding Academy
-----------
-
-###     Coding Portfolio
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="400" /> <br> **🚀 Coming Soon: Major Projects Dropping** </div>
-
-----------
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/) <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30">
