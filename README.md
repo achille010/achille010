@@ -24,7 +24,8 @@ const achille010 = {
 <p align="center">
   <img width="100%" style="max-width: 800px;" src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,react,typescript,nodejs,express,vscode,git,github,photoshop,figma&theme=dark&perline=16" alt="Tech Stack" />
 </p>
-----------
+
+<br clear="right"/>
 
 ## 🌐 Connect With Me
 
@@ -34,6 +35,6 @@ const achille010 = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=achille010&color=00D9FF&style=flat-square)
 
-----------
+<br clear="right"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=System+Online+%E2%9C%93;Deploying+Innovation...;Root+Access+Granted;Compiling+Dreams+Into+Reality" alt="Footer Animation" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" /> </div>
