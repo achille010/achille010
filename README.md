@@ -22,7 +22,7 @@ const achille010 = {
 ## 🛠️ Tech & Design Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,react,typescript,nodejs,express,vscode,git,github,photoshop,figma&theme=dark" alt="Tech Stack" />
+  <img width="400" src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,react,typescript,nodejs,express,vscode,git,github,photoshop,figma&theme=dark" alt="Tech Stack" />
 </p>
 
 ----------
