@@ -22,8 +22,7 @@ const achille010 = {
 ## 🛠️ Tech & Design Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,vscode,git,github,photoshop&theme=dark" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,react,typescript,nodejs,express,vscode,git,github,photoshop,figma&theme=dark" alt="Tech Stack" />
 </p>
 
 ----------
