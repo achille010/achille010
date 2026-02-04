@@ -1,9 +1,13 @@
-<div> <!-- Animated Name --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=achille010" alt="achille010" /> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+Here's your corrected markdown:
+markdown<div>
+<!-- Static Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=3000&pause=999999&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=achille010" alt="achille010" />
+
+<br clear="right"/>
 
 ## Coder | Developer | Designer | Writer
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ```javascript
 const achille010 = {
     location: "Kigali 🇷🇼",
@@ -12,8 +16,6 @@ const achille010 = {
     tools: ["VS Code", "Git", "GitHub"]
 };
 ```
-
-
 
 <br clear="right"/>
 
@@ -27,14 +29,34 @@ const achille010 = {
 
 <br clear="right"/>
 
-## 🌐 Connect With Me
+<h2 align="left">🌐 Connect With Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/) <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30">
+<p align="center">
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Achi_lien4" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="55" height="55" viewBox="0 0 50 45">
+      <path d="M 11 4 C 7.134 4 4 7.134 4 11 L 4 39 C 4 42.866 7.134 46 11 46 L 39 46 C 42.866 46 46 42.866 46 39 L 46 11 C 46 7.134 42.866 4 39 4 L 11 4 z M 13.085938 13 L 21.023438 13 L 26.660156 21.009766 L 33.5 13 L 36 13 L 27.789062 22.613281 L 37.914062 37 L 29.978516 37 L 23.4375 27.707031 L 15.5 37 L 13 37 L 22.308594 26.103516 L 13.085938 13 z M 16.914062 15 L 31.021484 35 L 34.085938 35 L 19.978516 15 L 16.914062 15 z"></path>
+    </svg>
+  </a>
+  <a href="https://instagram.com/a.chil_lien4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:ishyarugemachille4@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/Achi_lien4) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/a.chil_lien4) [![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:ishyarugemachille4@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achille010&color=00D9FF&style=flat" alt="Profile Views"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=achille010&color=00D9FF&style=flat-square)
 
 <br clear="right"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=System+Online+%E2%9C%93;Deploying+Innovation...;Root+Access+Granted;Compiling+Dreams+Into+Reality" alt="Footer Animation" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" /> </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer" />
+</p>
+
+</div>
