@@ -39,9 +39,6 @@
   <a href="https://instagram.com/a.chil_lien4" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="mailto:ishyarugemachille4@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
   <a href="https://discord.com/1428452747811885242">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
   </a>
