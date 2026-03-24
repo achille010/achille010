@@ -11,7 +11,7 @@
   const achille010 = { 
     location: "Kigali 🇷🇼", 
     code: ["JavaScript", "Python", "PHP", "React", "C/C++"], 
-    design: ["Krita", "Photoshop"], 
+    design: ["Krita", "Photoshop", "Photopea", "Canva"], 
     tools: ["VS Code", "Git", "GitHub"] }; 
   ```
 
@@ -19,10 +19,29 @@
 
 ----------
 
-<h2 align="center"> 🛠️ Tech & Design Stack </h2>
+<h2 align="center">Tech & Design Stack</h2>
 
+<p align="center"><sub>Languages</sub></p>
 <p align="center">
-  <img width="100%" style="max-width: 800px;" src="https://skillicons.dev/icons?i=c,cpp,python,js,php,html,css,react,typescript,nodejs,express,mysql,vscode,git,github,photoshop,figma&theme=dark&perline=17" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php,html,css,mysql&theme=dark&perline=9" />
+</p>
+
+<p align="center"><sub>Frameworks & Runtime</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark&perline=9" />
+</p>
+
+<p align="center"><sub>Design & Creative</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,krita&theme=dark&perline=9" />
+  <br/>
+  <img src="https://img.shields.io/badge/Canva-7D2AE7?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photopea-1B1B1B?style=for-the-badge&logo=photopea&logoColor=00BFFF" />
+</p>
+
+<p align="center"><sub>Tools & Environment</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=9" />
 </p>
 
 <br clear="right"/>
